@@ -1,0 +1,14 @@
+sudo apt-get install libsdl1.2-dev
+sudo apt-get install libSDL-ttf2.0-0
+sudo apt-get install libSDL-ttf2.0-0:i386
+sudo apt-get install libsdl-ttf2.0-dev
+
+
+
+
+
+
+
+
+
+https://doc.ubuntu-fr.org/sdl
